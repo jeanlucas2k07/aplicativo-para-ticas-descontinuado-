@@ -1,6 +1,6 @@
 import { Text, View, TextInput, Image, StyleSheet, Pressable, KeyboardAvoidingView, ScrollView, Platform} from "react-native";
 import { colors } from '@/constants/Colors';
-import React, { useState } from 'react';
+import React, { useState } from "react";
 import { Ionicons } from "@expo/vector-icons";
 import { Link, useRouter } from "expo-router";
 
